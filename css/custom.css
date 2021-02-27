@@ -1,0 +1,200 @@
+/* Your custom css code goes here */
+
+a.delete_room {
+    cursor: pointer;
+}
+
+.preview.update img {
+    display: block;
+}
+
+.preview{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background: white;
+ }
+ 
+ .preview img{
+    display: none;
+ }
+ /* Button */
+ .button{
+    border: 0px;
+    background-color: deepskyblue;
+    color: white;
+    padding: 5px 15px;
+    margin-left: 10px;
+ }
+
+.btn-login {
+    position: relative;
+    padding: 5px 10px 5px 10px !important;
+    right: -54px;
+}
+
+.blok-header {
+    height: 30px;
+    background: #ece8e8;
+}
+.zone {
+ 
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+.blk-right {
+    float: right;
+}
+
+.blk-left {
+    color: black;
+
+}
+
+
+
+
+
+.user_dashboard_links a {
+    display: block;
+    color: #576871;
+    width: 100%;
+    padding: 10px 5px;
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: 600;
+   
+
+}
+
+.user_dashboard {
+    border-right: 1px solid #f0f0f0;
+}
+
+.entry-title.entry-prop {
+    font-size: 30px;
+}
+
+.price_area {
+    color: #bc222c;
+    font-size: 25px;
+    padding: 8px 0px 0px 0px;
+    float: right;
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+
+.wpestate_property_description {
+    background-color: #fff;
+    padding: 30px;
+    float: left;
+    width: 100%;
+}
+
+.wpestate_property_description h4, .multi_units_wrapper h4, .property-panel h4 {
+    color: #3a4659;
+    margin-bottom: 0px;
+    font-size: 20px;
+    padding: 0px 0px 30px 0px;
+    font-weight: 500;
+}
+
+.pt-3 {
+    margin-top: 15px;
+    /* padding-top: 92px; */
+}
+
+.propery_listing_main_image {
+    width: 80%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section.section {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+header {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+span.label-rese {
+    font-size: 15px;
+    margin-left: 25px;
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 3px;
+    padding: 3px 5px;
+}
+
+.message_err {
+    background-color: #e14e4e;
+    color: aliceblue;
+    padding: 1px 5px;
+}
+
+.message_erreur {
+    width: 30%;
+ 
+}
+.invoice_unit_title {
+    padding: 10px 0px;
+    margin: 15px 0px;
+    background: #e7e7e7;
+    color: #263238;
+}
+
+.invoice_unit:nth-of-type(odd) {
+    background-color: #f8f6f6;
+}
+
+.invoice_unit {
+    padding: 10px 0px;
+    margin: 0px 0px;
+    line-height: 1.4em;
+}
+
+
+span.label-user {
+    background-color: #33b7b4;
+    padding: 5px 10px;
+}
+
+span.label-dispo {
+    font-size: 15px;
+    margin-left: 25px;
+    background-color: #61a52a;
+    color: aliceblue;
+    border-radius: 3px;
+    padding: 3px 5px;
+}
+
+img#profile-image {
+    width: 35%;
+}
+
+.panel_ {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.message_ok {
+    background-color: antiquewhite;
+    border: 1px solid;
+    padding: 5px 10px;
+    font-size: 15px;
+}
+
+.flex {
+    display: flex;
+}
+
+a.activer {
+    margin-right: 5px;
+}
